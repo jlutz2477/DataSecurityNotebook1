@@ -4,3 +4,6 @@ matplotlib==3.8.0
 requests==2.31.0
 pikepdf==8.13.0
 colorama==0.4.6
+seaborn==0.13.2
+scipy==1.12.0
+scikit-learn==1.4.1.post1
