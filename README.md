@@ -1,6 +1,6 @@
 # DataSecurityNotebook1
 
-## Set up
+## Set up for python venv in command prompt
 In the command prompt:
 
 Create a virtual python environment to download the required packages using `python -m venv note1`
